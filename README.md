@@ -6,7 +6,7 @@ Bu, Telegram botu için bir proje.
 
 Bu projeyi Heroku'ya dağıtmak için aşağıdaki bağlantıyı kullanabilirsiniz:
 
-[Heroku Uygulamasını Dağıt](https://dashboard.heroku.com/new?template=https://github.com/yourusername/telegram-bot)
+[Heroku Uygulamasını Dağıt](https://dashboard.heroku.com/new?template=https://github.com/isagzbyk46/gitaristtg)
 
 ### Gereksinimler
 
